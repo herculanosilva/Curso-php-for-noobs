@@ -11,9 +11,6 @@ Exemplos
 
 Sintaxe para comentários de uma linha:
 
-<!DOCTYPE html>
-<html>
-<body>
 
 <?php
 // Este é um comentário de uma linha 
@@ -21,14 +18,9 @@ Sintaxe para comentários de uma linha:
 # Este também é um comentário de uma linha
 ?>
 
-</body>
-</html>
 
 Sintaxe para comentários de várias linhas:
 
-<!DOCTYPE html>
-<html>
-<body>
 
 <?php
 
@@ -39,7 +31,3 @@ por vários linhas
 */
 
 ?>
-
-</body>
-</html>
-

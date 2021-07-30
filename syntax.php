@@ -1,4 +1,4 @@
-Um script PHP é executado no servidor e o resultado HTML simples é enviado de volta ao navegador.
+Um script PHP é executado no servidor e o resultado HTML simples é enviado de volta ao navegador.";
 
 - Sintaxe básica do PHP
 
@@ -6,7 +6,7 @@ Um script PHP é executado no servidor e o resultado HTML simples é enviado de 
 
     Um script PHP começa com "<?" Php e termina com "?>":
 
-<? php // o código PHP vai aqui ?>
+<? // o código PHP vai aqui ?>
 
 As instruções PHP terminam com um ponto e vírgula (;)
 
@@ -58,3 +58,4 @@ echo "My boat is " . $coLOR . "<br>";
 
 </body>
 </html>
+

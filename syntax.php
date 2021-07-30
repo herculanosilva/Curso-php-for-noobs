@@ -45,7 +45,7 @@ No entanto, todos os nomes de variáveis ​​diferenciam maiúsculas de minús
 
 O exemplo abaixo; apenas a primeira instrução exibirá o valor da variável $ color! Isso ocorre porque $ color, $ COLOR e $ coLOR são tratados como três variáveis ​​diferentes:
 
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <body>
 

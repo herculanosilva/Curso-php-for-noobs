@@ -19,4 +19,4 @@ Regras para variáveis ​​PHP:
     O nome de uma variável não pode começar com um número
     Um nome de variável pode conter apenas caracteres alfanuméricos e sublinhados (A-z, 0-9 e _)
     Os nomes das variáveis ​​diferenciam maiúsculas de minúsculas ($variavel e $VARIAVEL são duas variáveis ​​diferentes)
-    
+

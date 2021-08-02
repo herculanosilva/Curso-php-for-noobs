@@ -4,6 +4,17 @@ Operadores são usados ​​para realizar operações em variáveis ​​e val
 
 Operadores aritméticos. -->
 
+<!-- 
+
++	Adição        | $x + $y  | Soma de $x e $y
+-	Subtração     | $x - $y	 | Diferença de $x e $y 
+*	Multiplicação | $x * $y	 | Produto de $x e $y
+/	Divisão	      | $x / $y	 | Quociente de $x e $y
+%	Módulo        |	$x % $y	 | Restante de $x dividido por $y
+**	Exponenciação | $x ** $y | Resultado de elevar $x ao $y 
+
+-->
+
 <?php
 
 //SOMA

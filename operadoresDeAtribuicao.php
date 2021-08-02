@@ -4,12 +4,7 @@ Operadores são usados ​​para realizar operações em variáveis ​​e val
 
 Operadores de atribuição
 
-Operadores de comparação
-Operadores de matriz
-Operadores lógicos
-Operadores de execução -->
 
-<!--
 x = y	|   x = y      |    O operando esquerdo é definido com o valor da expressão à direita
 x += y	|   x = x + y  |    Adição
 x -= y	|   x = x - y  |    Subtração

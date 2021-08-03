@@ -4,9 +4,7 @@ Operadores são usados ​​para realizar operações em variáveis ​​e val
 
 Operadores de comparação
 
-Operadores de matriz
-Operadores lógicos
-Operadores de execução -->
+-->
 
 Os operadores de comparação PHP são usados ​​para comparar dois valores (número ou string):
 
